@@ -12,7 +12,8 @@ Work without a working video link is incomplete.
 
 The video should show both arrays, including the index, the element, the sum, and the high score.
 
-**Your demo:** _add your link here_
+**Your demo:** [screen-capture (14).webm](https://github.com/user-attachments/assets/4ca3a1de-b13c-4e55-847f-61e6ae00f2ee) 
+
 
 
 ## What to build
